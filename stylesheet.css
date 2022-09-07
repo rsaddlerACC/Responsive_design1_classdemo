@@ -4,7 +4,11 @@ body{
 h1{
 	color: yellow;
 }
+
 p{
 	color: #F31818;
 	font-family: Helvetica;
+}
+.large{
+	font-size: 24px;
 }
